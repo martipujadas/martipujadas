@@ -32,4 +32,4 @@ I'm currently preparing and improving my academic and personal projects. They wi
 
 ## Connect with me
 
-- [LinkedIn]([PASTE_YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/marti-pujadas)
+- - [LinkedIn](https://www.linkedin.com/in/marti-pujadas/)
